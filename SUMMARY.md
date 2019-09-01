@@ -19,5 +19,10 @@
     * [2018.1.9 北航已与 4 名性骚扰举报者联系](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/event-timeline/2018.1.9-bei-hang-yi-yu-4-ming-xing-sao-rao-ju-bao-zhe-lian-xi.md)
     * [2018.1.11 北航第二次通报](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/event-timeline/2018.1.11-bei-hang-di-er-ci-tong-bao.md)
     * [2018.1.14 教育部决定撤销陈小武“长江学者”称号，停发并追回已发奖金](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/event-timeline/2018.1.14-jiao-yu-bu-jue-ding-che-xiao-chen-xiao-wu-chang-jiang-xue-zhe-cheng-hao-ting-fa-bing-zhui.md)
-  * [文章报道](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/news-post.md)
+  * [文章报道](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/news-post/README.md)
+    * [2018.1.3《北航教“兽”性侵：这场中国版\#Me too，我们能做什么？》](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/news-post/2018.1.3-bei-hang-jiao-shou-xing-qin-zhe-chang-zhong-guo-ban-me-too-wo-men-neng-zuo-shen-me.md)
+    * [2018.1.6《人民日报评论\|北航性骚扰门：勇敢是你最好看的姿态》](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/news-post/2018.1.6-ren-min-ri-bao-ping-lun-bei-hang-xing-sao-rao-men-yong-gan-shi-ni-zui-hao-kan-de-zi-tai.md)
+    * [2018.1.12《受害者如何推动一场中国版\#MeToo》](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/news-post/2018.1.12-shou-hai-zhe-ru-he-tui-dong-yi-chang-zhong-guo-ban-metoo.md)
+    * [2018.1.15《北航性骚扰举报者：每说起一次，我曾经受到的伤害就减轻一点》](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/news-post/2018.1.15-bei-hang-xing-sao-rao-ju-bao-zhe-mei-shuo-qi-yi-ci-wo-ceng-jing-shou-dao-de-shang-hai-jiu.md)
+    * [Untitled](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi/yi-bei-hang-chen-xiao-wu-shi-jian-2018.1/news-post/untitled.md)
 
