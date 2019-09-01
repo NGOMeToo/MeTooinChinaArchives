@@ -86,6 +86,7 @@
     * [北大、南大学子的行动](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi-1/qi-bei-da-nan-da-shen-yang-shi-jian-2018.4/bei-da-nan-da-xue-zi-de-hang-dong.md)
     * [声援岳昕](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi-1/qi-bei-da-nan-da-shen-yang-shi-jian-2018.4/sheng-yuan-yue-xin.md)
     * [文章报道](juan-yi-zhong-guo-mi-tu-cong-gao-xiao-kai-shi-1/qi-bei-da-nan-da-shen-yang-shi-jian-2018.4/wen-zhang-bao-dao.md)
+* [卷二：中国米兔在各界](juan-er-zhong-guo-mi-tu-zai-ge-jie.md)
 
 ## 卷一：中国米兔从高校开始
 
